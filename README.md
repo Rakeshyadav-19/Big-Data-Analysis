@@ -1,4 +1,4 @@
-# Web Log Analysis on Hadoop + Spark (Faculty Brief)
+# Web Log Analysis on Hadoop + Spark
 
 A concise, faculty-oriented overview of what we built, why these technologies were chosen, and how the analysis works end-to-end. Includes an architecture view, core methods, and a short demo flow.
 
